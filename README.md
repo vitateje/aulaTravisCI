@@ -7,4 +7,4 @@
         <li> INTEGRAÇÃO CONTÍNUA </li>
   </ul>
   
-# aulaTravisCI # devops # github
+# aulaTravisCI devops github
