@@ -3,10 +3,10 @@
 # github
 
 <h3> Testes Automatizados </h3>
-<ol>
- <il> CRIAÇÃO DO TESTE </il>
-   <il> TRAVIS CI </il>
-     <il> INTEGRAÇÃO COM GITHUB <il>
-       <il> TESTE AUTOMATIZADO (APÓS PASSAR PELA VALIDAÇÃO DO TRAVIS SOBE O DEPLOY PARA O REPOSITÓRIO) <il>
+<ul>
+ <li> CRIAÇÃO DO TESTE </li>
+   <li> TRAVIS CI </li>
+     <li> INTEGRAÇÃO COM GITHUB </li>
+       <li> TESTE AUTOMATIZADO (APÓS PASSAR PELA VALIDAÇÃO DO TRAVIS SOBE O DEPLOY PARA O REPOSITÓRIO) </li>
         <li> INTEGRAÇÃO CONTÍNUA </li>
-  </ol>
+  </ul>
